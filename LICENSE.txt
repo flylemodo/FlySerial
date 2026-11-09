@@ -1,0 +1,80 @@
+================================================================================
+CONTRAT DE LICENCE UTILISATEUR FINAL (CLUF / EULA) - LOGICIEL PROPRIÉTAIRE
+APPLICATION : FLYSERIAL
+AUTEUR & AYANT DROIT : Florian G.
+SIGNATURE OFFICIELLE : Made by Florian G.
+COPYRIGHT © 2026 FLORIAN G. - TOUS DROITS RÉSERVÉS
+================================================================================
+
+AVIS IMPORTANT AUX UTILISATEURS :
+VEUILLEZ LIRE ATTENTIVEMENT CE CONTRAT DE LICENCE AVANT D'INSTALLER OU D'UTILISER 
+LE LOGICIEL "FLYSERIAL". EN INSTALLANT, COPIANT OU UTILISANT TOUT OU PARTIE DE CE 
+LOGICIEL, VOUS ACCEPTEZ D'ÊTRE LIÉ PAR L'ENSEMBLE DES TERMES DU PRÉSENT CONTRAT.
+
+1. NATURE DE LA LICENCE (NON OPEN SOURCE / PROPRIÉTAIRE)
+--------------------------------------------------------------------------------
+Le logiciel FlySerial est une création originale protégée par les lois nationales 
+et internationales relatives aux droits d'auteur, à la propriété intellectuelle 
+et aux secrets industriels.
+
+Ce logiciel est distribué sous LICENCE PROPRIÉTAIRE FERMÉE (CLOSED SOURCE). 
+IL N'EST PAS DISTRIBUÉ SOUS LICENCE LIBRE NI SOUS LICENCE OPEN SOURCE 
+(ex. : non soumis aux licences GPL, MIT, Apache, BSD ou similaires).
+Le code source demeure la propriété exclusive et confidentielle de Florian G.
+
+2. CONCESSION DE LICENCE D'UTILISATION
+--------------------------------------------------------------------------------
+Sous réserve du respect des termes de ce contrat, Florian G. concède à l'utilisateur 
+une licence personnelle, non exclusive, non transférable et révocable d'installation 
+et d'utilisation du logiciel FlySerial sous sa forme de code exécutable binaire 
+uniquement, pour ses besoins légitimes de communication série.
+
+3. RESTRICTIONS STRICTES
+--------------------------------------------------------------------------------
+Il est expressément et strictement interdit à l'utilisateur, directement ou par 
+l'intermédiaire d'un tiers, de :
+a) Rétro-ingénierer, décompiler, désassembler, modifier, adapter, traduire ou 
+   tenter de découvrir de quelque manière que ce soit le code source de FlySerial ;
+b) Louer, prêter, sous-licencier, vendre, redistribuer commercialement ou mettre 
+   à disposition du public le logiciel ou ses composants sans l'accord écrit 
+   préalable de Florian G. ;
+c) Supprimer, masquer ou altérer toute mention de copyright, de marque déposée, 
+   de signature ("Made by Florian G.") ou de propriété figurant dans ou sur le 
+   logiciel, les métadonnées de l'exécutable ou la documentation associée ;
+d) Créer des œuvres dérivées basées sur tout ou partie de FlySerial.
+
+4. PROPRIÉTÉ INTELLECTUELLE ET SIGNATURE
+--------------------------------------------------------------------------------
+L'ensemble des droits de propriété intellectuelle, titres et intérêts relatifs 
+au logiciel FlySerial, y compris son interface graphique, son code, ses algorithmes, 
+son nom, ses icônes et sa signature "Made by Florian G." appartiennent exclusivement 
+à Florian G. 
+L'acquisition ou l'installation de FlySerial ne confère à l'utilisateur aucun droit 
+de propriété sur le logiciel.
+
+5. SYSTÈME D'INSTALLATION ET DIFFUSION
+--------------------------------------------------------------------------------
+Le programme d'installation officiel de FlySerial intègre les contrôles de licence 
+et garantit l'intégrité des fichiers système déployés. Toute modification non autorisée 
+du package d'installation ou tentative de contournement est formellement prohibée.
+
+6. EXCLUSION DE GARANTIE ET LIMITATION DE RESPONSABILITÉ
+--------------------------------------------------------------------------------
+Le logiciel FlySerial est fourni "EN L'ÉTAT" ("AS IS"), sans garantie d'aucune sorte, 
+expresse ou implicite. Florian G. ne saurait en aucun cas être tenu responsable 
+des dommages directs ou indirects (incluant, sans limitation, les pertes de données, 
+interruptions de service matériel, défaillances de transmission série ou préjudices 
+financiers) découlant de l'utilisation ou de l'impossibilité d'utiliser le logiciel.
+
+7. RÉSILIATION
+--------------------------------------------------------------------------------
+Cette licence prend effet dès l'installation ou la première utilisation du logiciel. 
+Elle sera résiliée de plein droit sans préavis en cas de non-respect de l'une de ses 
+clauses. En cas de résiliation, l'utilisateur s'engage à désinstaller immédiatement 
+et détruire toute copie du logiciel en sa possession.
+
+================================================================================
+Pour toute demande de licence d'entreprise, intégration ou distribution :
+Contact & Support : Florian G. - Made by Florian G.
+================================================================================
+
